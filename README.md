@@ -3,7 +3,6 @@
 # Team-Profile-Generator
 ## Table of Contents
 * <a href="#about">About</a>
-* <a href="#preview">Preview</a>
 * <a href="#installation">Installation</a>
 * <a href="#unit-testing">Unit Testing</a>
 * <a href="#usage">Usage</a>

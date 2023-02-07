@@ -14,7 +14,6 @@
 <i><b>Team Profile Generator</b></i> is a Node.js command-line application that takes in information about employees on a software engineering team, then generates an HTML webpage that displays summaries for each person. Testing is key to making code maintainable, so I wrote a unit test for every part of the code and ensured that it passed each test.
 
 
-## Preview
 
 
 

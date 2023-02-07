@@ -7,6 +7,7 @@
 * <a href="#installation">Installation</a>
 * <a href="#unit-testing">Unit Testing</a>
 * <a href="#usage">Usage</a>
+* <a href="#screenshot">Screenshot</a>
 
 
 ## About 
@@ -41,4 +42,6 @@ node index.js
 * The following is an example of the CLI being ran:
 
 
+## Screenshot
 
+![Screenshot](./output/assets/images/Screenshot%202023-02-07%20at%2020.24.29.png)

@@ -39,7 +39,7 @@ npm test
 ```
 node index.js
 ```
-* The following is an example of the CLI being ran:
+
 
 
 ## Screenshot

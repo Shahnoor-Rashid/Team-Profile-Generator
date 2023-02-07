@@ -36,9 +36,7 @@ npm test
 
 ## Usage
 * Use "node index.js" to run the application. Answer the questions as asked and the HTML will be generated.
-```
-node index.js
-```
+
 
 
 
